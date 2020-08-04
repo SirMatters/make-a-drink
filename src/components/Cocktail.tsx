@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Cocktail {
+class Cocktail extends React.Component {
   render() {
     return <div>Cocktail</div>;
   }
